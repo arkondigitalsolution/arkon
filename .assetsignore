@@ -1,0 +1,7 @@
+.git
+.github
+wrangler.jsonc
+*.zip
+*.py
+*.md
+node_modules

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arkon.arkondigitalsolution.workers.dev/sitemap.xml
